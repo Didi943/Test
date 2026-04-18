@@ -1,5 +1,9 @@
 Bonjour c'est mon test 
 Bonjour ajout dans test1 
 je rajoute depuis test1
+<<<<<<< HEAD
 
 De mon coté je ne sais de quoi on parle
+=======
+Je rajoute pour créer un conflit
+>>>>>>> c534fc4a4388c0c1d5ad3f2fccde32f5e9a47c51
