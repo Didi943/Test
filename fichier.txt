@@ -23,3 +23,5 @@ je rajoute pour tester le reset --hard HEAD~1
 =======
 dyhia
 >>>>>>> 3281d51460aff8f3b58c6fc992847806df0255a5
+
+je fais des modifications depuis le remote
