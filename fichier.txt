@@ -18,4 +18,8 @@ Je rajoute pour créer un conflit
 >>>>>>> e5359e0873f1f9d92bff9f84f5ed6a3692b1bf84
 >>>>>>> 6a4a0dd47dd0b4efa1085be1bbba3b9a9fe01031
 
+<<<<<<< HEAD
+je rajoute pour tester le reset --hard HEAD~1
+=======
 dyhia
+>>>>>>> 3281d51460aff8f3b58c6fc992847806df0255a5
